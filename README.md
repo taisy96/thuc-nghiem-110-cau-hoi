@@ -27,16 +27,7 @@ Repo này lưu trữ dữ liệu và kết quả thực nghiệm đo **độ ch�
   - 4 phương án A, B, C, D
   - Một **đáp án đúng** do giáo viên xác định.
 
-Trong repo có các tệp:
 
-- `110_cau_hoi_tin_hoc10.md` hoặc `110_cau_hoi_tin_hoc10.docx`  
-  → Toàn bộ câu hỏi và đáp án đúng.
-- `ket_qua_110_cau.xlsx`  
-  → Bảng so sánh **Đáp án đúng** vs **Câu trả lời của Chatbot** theo từng câu.
-- (Tuỳ chọn) `ket_qua_110_cau.csv`  
-  → Phiên bản dữ liệu dạng bảng để xử lý bằng Python/R/Excel.
-
----
 
 ## 3. Quy trình thực nghiệm
 
