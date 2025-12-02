@@ -44,12 +44,6 @@ Repo này lưu trữ dữ liệu và kết quả thực nghiệm đo **độ ch�
    - Ghi lại câu trả lời của Chatbot cho từng câu (cột `Câu trả lời của Chatbot`).
    - So sánh với cột `Đáp án đúng` để xác định **Đúng/Sai**.
 
-4. **Tính toán độ chính xác**
-   - Độ chính xác được tính theo công thức:
-
-     \[
-     \text{Accuracy} = \frac{\text{Số câu trả lời đúng}}{\text{Tổng số câu}} \times 100\%
-     \]
 
 ---
 
